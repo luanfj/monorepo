@@ -1,0 +1,12 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Luan Fernandes <luan.fj01@gmail.com>",
+  "license": "MIT",
+  "workspaces": {
+    "packages": [
+      "clients/*"
+    ]
+  }
+}
